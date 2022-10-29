@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle dsaxazaxsa",
+        "command": "dsaxazaxsa:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "dsaxazaxsa",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "dsaxazaxsa:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
